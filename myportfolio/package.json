@@ -20,7 +20,7 @@
     "react-scripts": "4.0.3",
     "react-scrollmagic": "^2.3.0",
     "rellax": "^1.12.1",
-    "sass": "^1.37.5",
+    "sass": "^1.43.4",
     "swiper": "^6.8.1",
     "web-vitals": "^1.1.2"
   },
